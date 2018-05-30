@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>練習</title>
 </head>
 <body>
 
